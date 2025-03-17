@@ -34,13 +34,22 @@ BAC = Σ (All Approved Budgets for Project Activities)
 BAC is used in several EVM calculations:
 
 - **Cost Performance Index (CPI):**  
+
+  $$
   CPI = EV / AC
+  $$
 
 - **Estimate at Completion (EAC) (Assuming Current CPI Holds):**  
+
+  $$
   EAC = BAC / CPI
+  $$
 
 - **Variance at Completion (VAC):**  
+  
+  $$
   VAC = BAC - EAC
+  $$
 
 ## Why BAC Matters
 - **Establishes Cost Baseline** – Defines the financial limit for project expenditures.
