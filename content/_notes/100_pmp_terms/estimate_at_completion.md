@@ -61,4 +61,4 @@ graph LR;
 - **Supports Informed Decision-Making** – Enables proactive adjustments to spending.
 - **Enhances Stakeholder Communication** – Ensures transparency in budget expectations.
 
-See also: [[Actual Cost (AC)]], [[Budget at Completion (BAC)]], [[Earned Value (EV)]], [[Estimate to Complete (ETC)]], [[Planned Value (PV)]].
+See also: [[[[actual_cost|Actual Cost (AC)]], [[Budget at Completion (BAC)]], [[Earned Value (EV)]], [[Estimate to Complete (ETC)]], [[Planned Value (PV)]].

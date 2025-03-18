@@ -62,4 +62,4 @@ At **month 2, 70% of the work is complete**, but **80% of the budget is spent**.
 - **Supports Forecasting & Risk Management** – Predicts future project trends.
 - **Improves Stakeholder Confidence** – Offers data-driven insights.
 
-See also: [[Earned Value (EV)]], [[Planned Value (PV)]], [[Actual Cost (AC)]], [[Cost Performance Index (CPI)]], [[Schedule Performance Index (SPI)]], [[Budget at Completion (BAC)]].
+See also: [[Earned Value (EV)]], [[Planned Value (PV)]], [[[[actual_cost|Actual Cost (AC)]], [[Cost Performance Index (CPI)]], [[Schedule Performance Index (SPI)]], [[Budget at Completion (BAC)]].

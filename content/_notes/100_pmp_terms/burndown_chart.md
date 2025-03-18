@@ -39,4 +39,4 @@ A team launching a product monitors task completion in a Burndown Chart, adjusti
 - **Encourages Accountability** – Ensures teams stay on track with sprint goals.
 - **Supports Agile Decision-Making** – Allows adjustments in planning based on trends.
 
-See also: [[Sprint Backlog]], [[Velocity]], [[Burnup Chart]], [[Agile]].
+See also: [[Sprint Backlog]], [[Velocity]], [[Burnup Chart]], [[agile | Agile]].

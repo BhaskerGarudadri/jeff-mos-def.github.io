@@ -64,4 +64,4 @@ A **marketing team** with a **\$100,000 budget** has **executed 25% of planned s
 - **Improves Forecasting Accuracy** – Supports Estimate at Completion (EAC) analysis.
 - **Supports Proactive Decision-Making** – Enables early intervention for cost overruns.
 
-See also: [[Actual Cost (AC)]], [[Budget at Completion (BAC)]], [[Estimate at Completion (EAC)]], [[Estimate to Complete (ETC)]], [[Planned Value (PV)]].
+See also: [[[[actual_cost|Actual Cost (AC)]], [[Budget at Completion (BAC)]], [[Estimate at Completion (EAC)]], [[Estimate to Complete (ETC)]], [[Planned Value (PV)]].

@@ -39,4 +39,4 @@ A construction team refines its backlog, adjusting the sequence of work items ba
 - **Enhances Collaboration** – Aligns team members on priorities and expectations.
 - **Reduces Sprint Planning Time** – Prepares work items in advance, streamlining iteration planning.
 
-See also: [[Backlog]], [[Product Backlog]], [[Sprint Backlog]], [[Release Backlog]], [[Agile]], [[Kanban Board]].
+See also: [[Backlog]], [[Product Backlog]], [[Sprint Backlog]], [[Release Backlog]], [[agile | Agile]], [[Kanban Board]].

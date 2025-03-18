@@ -57,4 +57,4 @@ BAC is used in several EVM calculations:
 - **Improves Cost Control** – Provides a reference for managing actual expenses.
 - **Aids in Risk Management** – Identifies potential overruns before they escalate.
 
-See also: [[Actual Cost (AC)]], [[Earned Value (EV)]], [[Estimate at Completion (EAC)]], [[Estimate to Complete (ETC)]], [[Planned Value (PV)]].
+See also: [[[[actual_cost|Actual Cost (AC)]], [[Earned Value (EV)]], [[Estimate at Completion (EAC)]], [[Estimate to Complete (ETC)]], [[Planned Value (PV)]].

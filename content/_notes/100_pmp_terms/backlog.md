@@ -37,4 +37,4 @@ A construction team organizes a backlog of tasks like "Install electrical wiring
 - **Enhances Adaptability** – Allows adjustments to priorities as project needs evolve.
 - **Facilitates Collaboration** – Aligns team members and stakeholders on what needs to be done.
 
-See also: [[Product Backlog]], [[Sprint Backlog]], [[Release Backlog]], [[Agile]], [[Kanban Board]].
+See also: [[Product Backlog]], [[Sprint Backlog]], [[Release Backlog]], [[agile | Agile]], [[Kanban Board]].

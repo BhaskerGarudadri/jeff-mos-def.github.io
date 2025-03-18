@@ -39,4 +39,4 @@ A marketing team uses a Burnup Chart to monitor completed campaign assets (video
 - **Enhances Predictability** – Helps teams assess if they will meet their milestone on time.
 - **Supports Agile Decision-Making** – Enables teams to adjust based on real progress data.
 
-See also: [[Burndown Chart]], [[Sprint Backlog]], [[Velocity]], [[Agile]].
+See also: [[Burndown Chart]], [[Sprint Backlog]], [[Velocity]], [[agile|Agile]].
