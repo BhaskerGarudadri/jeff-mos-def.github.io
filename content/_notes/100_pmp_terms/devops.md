@@ -29,7 +29,7 @@ tags:
 
 ## **Mermaid Diagram: DevOps Workflow**
 ```mermaid
-graph TD;
+graph LR;
     A["Plan"] --> B["Develop"]
     B --> C["Build & Test"]
     C --> D["Release & Deploy"]

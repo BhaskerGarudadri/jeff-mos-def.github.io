@@ -28,7 +28,7 @@ tags:
 
 ## **Mermaid Diagram: Design Thinking Process**
 ```mermaid
-graph TD;
+graph LR;
     A["Empathize"] --> B["Define"]
     B --> C["Ideate"]
     C --> D["Prototype"]
