@@ -35,4 +35,4 @@ An **adaptive approach** is a development methodology used when project requirem
 - **Improves Customer Satisfaction** – Ensures deliverables align with evolving needs.
 - **Enhances Team Efficiency** – Allows teams to pivot quickly without wasting resources.
 
-See also: [[Agile]], [[Incremental Approach]], [[Iterative Approach]], [[Product Life Cycle]], [[Development Approach]].
+See also: [[agile|Agile]], [[Incremental Approach]], [[Iterative Approach]], [[Product Life Cycle]], [[Development Approach]].
