@@ -41,9 +41,11 @@ The **team recalculates ETC** to determine the remaining budget required to comp
 ## **Mermaid Diagram: ETC Process**
 ```mermaid
 graph LR;
-    A["Project Start"] -->|Planned Budget (BAC)| B["Work Completed (EV)"]
-    B -->|Actual Cost (AC)| C["Cost Incurred"]
-    C -->|Estimate to Complete (ETC)| D["Remaining Budget Needed"]
+    A["Project Start"] --> B["Planned Budget (BAC)"]
+    B --> C["Work Completed (EV)"]
+    C --> D["Actual Cost (AC)"]
+    D --> E["Estimate to Complete (ETC)"]
+    E --> F["Remaining Budget Needed"]
 ```
 
 ## **Why Estimate to Complete Matters**

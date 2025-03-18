@@ -48,9 +48,11 @@ Using **EAC = AC + ETC**, a revised estimate is made based on the updated financ
 ## **Mermaid Diagram: EAC Process**
 ```mermaid
 graph LR;
-    A["Project Start"] -->|Planned Budget (BAC)| B["Work Completed (EV)"]
-    B -->|Actual Cost (AC)| C["Cost Incurred"]
-    C -->|Estimate to Complete (ETC)| D["Projected Final Cost (EAC)"]
+    A["Project Start"] --> B["Planned Budget (BAC)"]
+    B --> C["Work Completed (EV)"]
+    C --> D["Actual Cost (AC)"]
+    D --> E["Estimate to Complete (ETC)"]
+    E --> F["Projected Final Cost (EAC)"]
 ```
 
 ## **Why Estimate at Completion Matters**
