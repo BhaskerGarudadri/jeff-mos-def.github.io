@@ -26,7 +26,7 @@ For the PMP exam, mastering key formulas is essential. Here’s a quick referenc
 | **Estimate to Complete (ETC)**  | $$ETC = EAC - AC$$ |
 | **To-Complete Performance Index (TCPI) - BAC** | $$TCPI = \frac{BAC - EV}{BAC - AC}$$ |
 | **TCPI - EAC**                 | $$TCPI = \frac{BAC - EV}{EAC - AC}$$ |
-| **Point of Total Assumption (PTA)** | $$PTA = \frac{(Ceiling Price - Target Price)}{Buyer’s Share Ratio} + Target Cost$$ |
+| **Point of Total Assumption (PTA)** | $$PTA = \frac{(Ceiling Price - Target Price)}{Buyer's Share Ratio} + Target Cost$$ |
 | **Present Value (PV)**          | $$PV = \frac{FV}{(1 + r)^n}$$ |
 | **Future Value (FV)**           | $$FV = PV \times (1 + r)^n$$ |
 | **Communication Channels**      | $$n(n - 1) / 2$$ |
