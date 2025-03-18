@@ -14,7 +14,8 @@ tags:
 - **Don’t Hire**  
 - **Don’t Fire**  
 - **Don’t Ask for Money**  
-- **Don’t Ask for Help**  
+- **~~Don’t~~ Ask for Help**
+  - **Ask from within your team!**  
 - **Don’t Do Nothing**  
 - **Don’t Make Someone Else Do Your Job**  
 
