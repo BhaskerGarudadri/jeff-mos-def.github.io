@@ -1,18 +1,38 @@
-# Quartz v4
+# PMP Knowledge Hub
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## 📌 Overview
+This repository serves as a **comprehensive knowledge hub** for **PMP (Project Management Professional) studies**. It is designed to provide **structured definitions, concepts, and resources** to reinforce key project management principles.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## 🎯 Purpose
+- To **document and organize** essential PMP terminology.
+- To **streamline study materials** for quick reference.
+- To **enhance understanding** through structured definitions and visual aids.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## 🏗 Structure
+This site is built using **Quartz**, static-site generator that transforms Markdown content into fully functional websites. Quartz leverages **Node.js** and **npm** for its build process, ensuring efficient and scalable site generation.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- **📖 Definitions** – Each term is concisely defined, linking related concepts where applicable.
+- **📊 Visual Aids** – Mermaid diagrams are used selectively to illustrate key processes.
+- **🔗 Cross-References** – Related terms are interconnected to create a logical knowledge flow.
 
-## Sponsors
+## 🚀 Features
+- **Standardized Formatting** – Ensures clarity and consistency.
+- **Intelligent Cross-Linking** – Connects related concepts for deeper learning.
+- **Structured Knowledge Base** – Focused on project management principles.
+- **Concise & Practical Content** – Avoids unnecessary fluff, prioritizing actionable insights.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 📝 Usage
+- Browse terms to **reinforce PMP concepts**.
+- Use cross-links to **understand interdependencies** between project management principles.
+- Leverage Mermaid diagrams where applicable for **visual learning**.
+
+## 🔄 Future Enhancements
+- Expand coverage with **additional PMP methodologies and case studies**.
+- Incorporate **interactive study tools** for knowledge reinforcement.
+- Optimize navigation for **faster access to key concepts**.
+
+## 📌 Notes
+This knowledge hub is **tailored for personal PMP study purposes**, ensuring an efficient and streamlined learning experience. As new terms and concepts are encountered, they will be systematically documented and refined.
+
+---
+📌 **Author**: Maintained as a structured PMP study resource.
