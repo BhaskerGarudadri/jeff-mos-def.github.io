@@ -11,7 +11,6 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/jeff-mos-def/jeff-mos-def.github.io",
       "Bluesky": "https://bsky.app/profile/jeffcamacho.com",
       LinkedIn: "https://www.linkedin.com/in/jeff-camacho",
-      "Sponsor ❤️": "https://github.com/sponsors/jeff-mos-def"
     },
   }),
 }
