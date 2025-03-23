@@ -32,6 +32,17 @@ tags:
   - Implement it  
   - Verify that it worked  
 
+---
+
+## Condensed podcast
+
+<audio controls style="width: 300px">
+  <source src="https://www.dropbox.com/scl/fi/jyowhuctxlvvom5386fcq/PMP-Exam-Tactics_-Dos-and-Don-ts.mp3?rlkey=aj6eawq2vilclqjv1i4yhb3xs&raw=1" type="audio/mpeg" />
+  Your browser does not support the audio element.
+</audio>
+
+---
+
 ## Why These Tactics Are Useful for the PMP Exam
 
 The PMP exam is full of scenario-based questions that test a candidate’s ability to think like a professional project manager. These lists align well with PMI’s expectations in the following ways:
