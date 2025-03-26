@@ -18,3 +18,11 @@ I'll keep updating the site as I progress. Hope this helps!
 I've gotten through the L's of my defnitions, and have also started to, on text, make the associations to other terms. Those will be linked in the future.
 
 I've also added some resources I've used and will continue to do so.
+
+---
+
+26Mar25 Update:
+
+Continued inject of relevant terms with minimal linking. 
+
+I've also started to map out the <a href="https://jeff-mos-def.github.io/_notes/200_process_groups/process_groups_and_knowledge_areas">process groups and knowledge areas</a>.
