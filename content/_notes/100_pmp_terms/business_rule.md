@@ -2,8 +2,8 @@
 title: Business Rule
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - business-analysis
   - governance
 ---

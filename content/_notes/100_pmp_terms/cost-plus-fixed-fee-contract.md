@@ -2,8 +2,8 @@
 title: Cost-Plus-Fixed-Fee (CPFF) Contract
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - contract-management
   - procurement
   - cost-management

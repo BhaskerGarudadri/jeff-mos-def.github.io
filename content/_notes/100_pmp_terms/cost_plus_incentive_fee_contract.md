@@ -2,8 +2,8 @@
 title: Cost-Plus-Incentive-Fee (CPIF) Contract
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - contract-management
   - procurement
   - cost-management

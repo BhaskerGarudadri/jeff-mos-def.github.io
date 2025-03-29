@@ -2,8 +2,8 @@
 title: Decomposition
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - scope-management
   - work-breakdown-structure
   - planning

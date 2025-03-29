@@ -2,8 +2,8 @@
 title: Critical Chain Method (CCM)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - resource-management
   - risk-management

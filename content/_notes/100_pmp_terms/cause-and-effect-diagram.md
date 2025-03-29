@@ -2,8 +2,8 @@
 title: Cause-and-Effect Diagram
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - quality-management
   - root-cause-analysis

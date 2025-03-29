@@ -2,8 +2,8 @@
 title: Backlog Refinement
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - work-management
 ---

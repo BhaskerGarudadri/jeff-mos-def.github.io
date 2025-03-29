@@ -2,8 +2,8 @@
 title: Blocker
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - risk-management
 ---

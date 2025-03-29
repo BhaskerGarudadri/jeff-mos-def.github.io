@@ -2,8 +2,8 @@
 title: Business Case
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - strategic-planning
   - decision-making
 ---

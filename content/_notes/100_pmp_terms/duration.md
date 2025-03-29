@@ -2,8 +2,8 @@
 title: Duration
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - time-tracking
   - work-planning

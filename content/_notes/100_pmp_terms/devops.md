@@ -2,8 +2,8 @@
 title: DevOps
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - software-development
   - agile
   - continuous-delivery

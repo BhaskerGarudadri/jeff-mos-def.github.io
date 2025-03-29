@@ -2,8 +2,8 @@
 title: Actual Cost (AC)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
 ---
 

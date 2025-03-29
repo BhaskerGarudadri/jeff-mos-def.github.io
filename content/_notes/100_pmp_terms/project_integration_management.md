@@ -5,7 +5,7 @@ tags:
   - knowledge-areas  
   - integration-management  
   - coordination  
-  - project-management  
+    
 ---
 
 ## Overview: Project Integration Management

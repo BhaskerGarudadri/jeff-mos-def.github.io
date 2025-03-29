@@ -2,8 +2,8 @@
 title: Daily Coordination Meeting
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - team-collaboration
   - communication

@@ -2,7 +2,7 @@
 title: Model  
 draft: false  
 tags:  
-  - project-management  
+    
   - visualization  
   - communication  
   - analysis  

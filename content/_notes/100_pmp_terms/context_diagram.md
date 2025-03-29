@@ -2,8 +2,8 @@
 title: Context Diagram
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - business-analysis
   - requirements-management
   - system-design

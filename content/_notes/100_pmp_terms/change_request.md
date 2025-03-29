@@ -2,8 +2,8 @@
 title: Change Request
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - change-management
   - governance
 ---

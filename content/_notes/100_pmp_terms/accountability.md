@@ -2,8 +2,8 @@
 title: Accountability
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - leadership
 ---
 

@@ -2,8 +2,8 @@
 title: Forecast
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
   - schedule-management
   - risk-management

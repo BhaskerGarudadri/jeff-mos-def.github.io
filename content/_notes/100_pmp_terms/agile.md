@@ -2,8 +2,8 @@
 title: Agile
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - development-approach
 ---

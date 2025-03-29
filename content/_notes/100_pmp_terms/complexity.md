@@ -2,8 +2,8 @@
 title: Complexity
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - systems-thinking
 ---

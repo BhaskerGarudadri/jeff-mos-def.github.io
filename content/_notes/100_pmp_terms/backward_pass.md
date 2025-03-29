@@ -2,8 +2,8 @@
 title: Backward Pass
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - scheduling
   - critical-path-method
 ---

@@ -2,8 +2,8 @@
 title: Cost Management Plan
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
   - budgeting
   - financial-planning

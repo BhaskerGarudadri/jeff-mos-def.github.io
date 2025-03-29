@@ -2,8 +2,8 @@
 title: Business Analysis
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - business-strategy
   - requirements-management
 ---

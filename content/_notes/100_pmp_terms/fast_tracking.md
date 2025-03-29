@@ -2,8 +2,8 @@
 title: Fast Tracking
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - schedule-compression
   - risk-management

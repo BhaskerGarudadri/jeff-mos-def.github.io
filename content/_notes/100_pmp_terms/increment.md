@@ -2,7 +2,7 @@
 title: Increment
 draft: false
 tags:
-  - project-management
+  
   - agile
   - product-development
   - iterative-delivery

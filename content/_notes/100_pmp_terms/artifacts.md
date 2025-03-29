@@ -2,8 +2,8 @@
 title: Artifacts
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - documentation
   - project-deliverables
 ---

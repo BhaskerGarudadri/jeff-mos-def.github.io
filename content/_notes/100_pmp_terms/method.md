@@ -2,7 +2,7 @@
 title: Method  
 draft: false  
 tags:  
-  - project-management  
+    
   - execution  
   - methodology  
   - delivery  

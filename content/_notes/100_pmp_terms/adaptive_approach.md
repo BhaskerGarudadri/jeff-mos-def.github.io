@@ -2,8 +2,8 @@
 title: Adaptive Approach
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - development-approach
 ---

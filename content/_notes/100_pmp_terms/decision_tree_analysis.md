@@ -2,8 +2,8 @@
 title: Decision Tree Analysis
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - decision-analysis
   - forecasting

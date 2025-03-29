@@ -2,8 +2,8 @@
 title: Cost Baseline
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
   - budgeting
   - performance-measurement

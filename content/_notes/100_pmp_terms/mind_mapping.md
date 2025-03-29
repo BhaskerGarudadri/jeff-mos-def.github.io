@@ -2,7 +2,7 @@
 title: Mind Mapping  
 draft: false  
 tags:  
-  - project-management  
+    
   - brainstorming  
   - ideation  
   - collaboration  

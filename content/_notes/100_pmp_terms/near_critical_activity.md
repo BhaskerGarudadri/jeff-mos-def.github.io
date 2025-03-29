@@ -2,7 +2,7 @@
 title: Near-Critical Activity  
 draft: false  
 tags:  
-  - project-management  
+    
   - scheduling  
   - critical-path  
   - float  

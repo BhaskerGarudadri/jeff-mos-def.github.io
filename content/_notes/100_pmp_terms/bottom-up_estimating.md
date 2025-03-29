@@ -2,8 +2,8 @@
 title: Bottom-Up Estimating
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - estimating
   - cost-management
   - scheduling

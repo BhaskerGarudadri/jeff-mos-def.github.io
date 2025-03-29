@@ -2,7 +2,7 @@
 title: Minimum Viable Product (MVP)  
 draft: false  
 tags:  
-  - project-management  
+    
   - agile  
   - product-development  
   - lean-startup  

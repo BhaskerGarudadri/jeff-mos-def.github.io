@@ -2,8 +2,8 @@
 title: Crashing
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - schedule-compression
   - cost-management

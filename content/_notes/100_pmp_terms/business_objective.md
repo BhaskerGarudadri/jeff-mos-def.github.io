@@ -2,8 +2,8 @@
 title: Business Objective
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - strategic-planning
   - business-analysis
 ---

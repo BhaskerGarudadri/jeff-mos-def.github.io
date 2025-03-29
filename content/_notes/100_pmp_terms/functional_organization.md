@@ -2,8 +2,8 @@
 title: Functional Organization
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - organizational-structure
   - resource-management
   - leadership

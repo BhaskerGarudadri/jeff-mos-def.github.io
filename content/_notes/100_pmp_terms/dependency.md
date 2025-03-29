@@ -2,8 +2,8 @@
 title: Dependency
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - task-sequencing
   - workflow

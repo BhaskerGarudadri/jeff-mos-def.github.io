@@ -2,8 +2,8 @@
 title: Baseline
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - planning
   - change-management
 ---

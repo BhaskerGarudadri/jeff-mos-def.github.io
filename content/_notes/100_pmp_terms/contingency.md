@@ -2,8 +2,8 @@
 title: Contingency
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - cost-management
 ---

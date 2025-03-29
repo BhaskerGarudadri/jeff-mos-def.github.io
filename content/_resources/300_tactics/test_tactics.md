@@ -2,8 +2,8 @@
 title: PMP Exam Tactics – What to Do and What to Avoid
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - exam-prep
   - leadership
   - decision-making

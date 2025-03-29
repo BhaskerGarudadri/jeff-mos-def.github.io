@@ -2,8 +2,8 @@
 title: Constraint
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - governance
 ---

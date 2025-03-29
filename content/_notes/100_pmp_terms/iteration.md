@@ -2,7 +2,7 @@
 title: Iteration
 draft: false
 tags:
-  - project-management
+  
   - agile
   - iterative-development
   - product-delivery

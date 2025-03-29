@@ -2,7 +2,7 @@
 title: Impediment
 draft: false
 tags:
-  - project-management
+  
   - agile
   - risk-management
   - team-collaboration

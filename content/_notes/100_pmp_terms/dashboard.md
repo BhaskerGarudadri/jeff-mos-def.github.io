@@ -2,8 +2,8 @@
 title: Dashboard
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - performance-tracking
   - reporting
   - data-visualization

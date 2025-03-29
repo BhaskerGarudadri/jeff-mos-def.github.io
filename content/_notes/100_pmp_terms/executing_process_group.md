@@ -5,7 +5,7 @@ tags:
   - process-groups  
   - project-lifecycle  
   - executing  
-  - project-management  
+    
 ---
 
 ## Overview: Executing Process Group

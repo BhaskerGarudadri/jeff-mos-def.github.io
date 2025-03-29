@@ -2,8 +2,8 @@
 title: Effort
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - work-planning
   - resource-management

@@ -2,8 +2,8 @@
 title: Business Value
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - strategic-planning
   - value-management
 ---

@@ -2,8 +2,8 @@
 title: PMP Formulas Cheat Sheet
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - exam-prep
   - formulas
 ---

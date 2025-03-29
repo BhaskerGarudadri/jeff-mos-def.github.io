@@ -2,7 +2,7 @@
 title: Milestone  
 draft: false  
 tags:  
-  - project-management  
+    
   - scheduling  
   - planning  
   - progress-tracking  

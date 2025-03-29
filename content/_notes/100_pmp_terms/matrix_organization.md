@@ -2,7 +2,7 @@
 title: Matrix Organization  
 draft: false  
 tags:  
-  - project-management  
+    
   - organizational-structures  
   - resource-management  
   - team-management  

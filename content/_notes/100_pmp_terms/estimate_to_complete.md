@@ -2,8 +2,8 @@
 title: Estimate to Complete (ETC)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
   - earned-value-management
   - forecasting

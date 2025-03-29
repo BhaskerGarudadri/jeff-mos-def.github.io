@@ -2,8 +2,8 @@
 title: Capability
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - business-analysis
   - strategic-planning
 ---

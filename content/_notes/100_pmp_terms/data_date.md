@@ -2,8 +2,8 @@
 title: Data Date
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - performance-tracking
   - reporting

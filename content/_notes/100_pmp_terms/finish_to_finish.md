@@ -2,8 +2,8 @@
 title: Finish-to-Finish (FF)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - dependencies
   - logical-relationships

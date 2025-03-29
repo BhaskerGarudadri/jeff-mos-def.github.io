@@ -2,8 +2,8 @@
 title: Benefits Realization Plan
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - benefits-realization
   - strategic-planning
 ---

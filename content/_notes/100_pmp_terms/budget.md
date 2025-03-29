@@ -2,8 +2,8 @@
 title: Budget
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
   - financial-planning
 ---

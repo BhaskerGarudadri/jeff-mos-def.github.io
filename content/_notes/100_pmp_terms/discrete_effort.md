@@ -2,8 +2,8 @@
 title: Discrete Effort
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - earned-value-management
   - work-planning
   - performance-measurement

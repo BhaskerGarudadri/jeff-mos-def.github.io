@@ -2,8 +2,8 @@
 title: Deliverable
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - scope-management
   - project-lifecycle
   - quality-management

@@ -2,8 +2,8 @@
 title: Nominal Group Technique (NGT)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - decision-making
   - facilitation
 ---

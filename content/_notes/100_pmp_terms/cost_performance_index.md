@@ -2,8 +2,8 @@
 title: Cost Performance Index (CPI)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - earned-value-management
   - cost-management
   - performance-measurement

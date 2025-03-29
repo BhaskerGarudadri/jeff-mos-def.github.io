@@ -2,8 +2,8 @@
 title: Enterprise Environmental Factors (EEFs)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - organizational-influence
   - risk-management
   - external-factors

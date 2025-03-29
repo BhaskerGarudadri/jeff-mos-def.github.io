@@ -5,7 +5,7 @@ tags:
   - process-groups  
   - project-lifecycle  
   - planning  
-  - project-management  
+    
 ---
 
 ## Overview: Planning Process Group

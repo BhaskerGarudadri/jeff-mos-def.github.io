@@ -2,8 +2,8 @@
 title: Earned Value (EV)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - earned-value-management
   - cost-management
   - performance-measurement

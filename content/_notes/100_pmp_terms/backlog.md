@@ -2,8 +2,8 @@
 title: Backlog
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - work-management
 ---

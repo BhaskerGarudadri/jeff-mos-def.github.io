@@ -2,7 +2,7 @@
 title: Make-or-Buy Analysis  
 draft: false  
 tags:  
-  - project-management  
+    
   - procurement  
   - decision-analysis  
   - cost-management  

@@ -2,8 +2,8 @@
 title: Configuration Management System
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - change-management
   - governance
   - quality-management

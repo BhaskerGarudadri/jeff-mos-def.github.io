@@ -2,8 +2,8 @@
 title: Contingency Plan
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - emergency-response
 ---

@@ -2,8 +2,8 @@
 title: Cost-Plus-Award-Fee (CPAF) Contract
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - contract-management
   - procurement
   - cost-management

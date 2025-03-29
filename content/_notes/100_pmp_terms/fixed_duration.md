@@ -2,8 +2,8 @@
 title: Fixed Duration
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - resource-management
   - time-management

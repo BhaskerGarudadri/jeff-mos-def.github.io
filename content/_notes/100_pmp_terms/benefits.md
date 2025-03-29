@@ -2,8 +2,8 @@
 title: Benefits
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - benefits-realization
   - value-delivery
 ---

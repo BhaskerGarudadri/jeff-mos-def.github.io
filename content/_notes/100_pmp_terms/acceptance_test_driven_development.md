@@ -2,8 +2,8 @@
 title: Acceptance Test-Driven Development (ATDD)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - software-development
   - testing
 ---

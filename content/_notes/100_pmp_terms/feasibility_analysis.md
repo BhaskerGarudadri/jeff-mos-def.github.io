@@ -2,8 +2,8 @@
 title: Feasibility Analysis
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - business-analysis
   - decision-making
   - risk-management

@@ -2,8 +2,8 @@
 title: Activity List
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - scheduling
 ---
 

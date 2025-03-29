@@ -2,8 +2,8 @@
 title: Assumption Log
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - planning
 ---

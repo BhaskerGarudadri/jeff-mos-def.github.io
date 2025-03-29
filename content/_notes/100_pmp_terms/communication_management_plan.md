@@ -2,8 +2,8 @@
 title: Communications Management Plan
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - communication-management
   - stakeholder-management
 ---

@@ -2,8 +2,8 @@
 title: Budget at Completion (BAC)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
   - earned-value-management
 ---

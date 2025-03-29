@@ -2,8 +2,8 @@
 title: Apportioned Effort
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - effort-management
   - scheduling
 ---

@@ -2,8 +2,8 @@
 title: Expected Monetary Value (EMV)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - decision-analysis
   - cost-management

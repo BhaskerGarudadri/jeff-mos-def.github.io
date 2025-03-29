@@ -2,8 +2,8 @@
 title: PMP Fast Track
 draft: false  
 tags:  
-  - project-management  
-  - pmp  
+    
+    
   - exam-prep  
   - situational-questions  
   - leadership  

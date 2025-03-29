@@ -2,7 +2,7 @@
 title: Minimum Marketable Feature (MMF)  
 draft: false  
 tags:  
-  - project-management  
+    
   - agile  
   - product-development  
   - value-delivery  

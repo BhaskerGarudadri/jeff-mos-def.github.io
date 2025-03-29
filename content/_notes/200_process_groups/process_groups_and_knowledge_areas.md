@@ -2,8 +2,8 @@
 title: PMP Process Groups and Knowledge Areas
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - process-groups
   - knowledge-areas
   - project-planning

@@ -2,7 +2,7 @@
 title: Kanban Board
 draft: false
 tags:
-  - project-management
+  
   - agile
   - workflow-optimization
   - visualization

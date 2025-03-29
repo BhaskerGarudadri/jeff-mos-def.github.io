@@ -2,8 +2,8 @@
 title: Schedule Network Diagram
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - scheduling
   - critical-path-method
   - workflow-visualization

@@ -2,8 +2,8 @@
 title: Critical Path
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - critical-path-method
   - project-planning

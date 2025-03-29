@@ -2,8 +2,8 @@
 title: Continuous Delivery
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - software-development
   - devops

@@ -2,8 +2,8 @@
 title: Business Requirement Documents (BRD)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - requirements-management
   - business-analysis
 ---

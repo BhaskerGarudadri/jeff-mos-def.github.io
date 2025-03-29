@@ -2,8 +2,8 @@
 title: Predictive | 1–10
 draft: false  
 tags:  
-  - project-management  
-  - pmp  
+    
+    
   - exam-prep  
   - predictive  
   - study-tips  

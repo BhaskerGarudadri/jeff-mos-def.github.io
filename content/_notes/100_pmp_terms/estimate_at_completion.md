@@ -2,8 +2,8 @@
 title: Estimate at Completion (EAC)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
   - earned-value-management
   - forecasting

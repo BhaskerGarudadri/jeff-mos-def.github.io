@@ -2,8 +2,8 @@
 title: Epic
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - requirements-management
   - product-development

@@ -2,7 +2,7 @@
 title: Monte Carlo Simulation  
 draft: false  
 tags:  
-  - project-management  
+    
   - risk-management  
   - forecasting  
   - probabilistic-modeling  

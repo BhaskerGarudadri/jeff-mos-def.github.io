@@ -2,8 +2,8 @@
 title: Feature
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - product-development
   - requirements-management
   - agile

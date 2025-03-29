@@ -2,8 +2,8 @@
 title: Elicitation
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - business-analysis
   - requirements-gathering
   - stakeholder-management

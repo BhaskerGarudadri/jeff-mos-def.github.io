@@ -2,7 +2,7 @@
 title: Go/No-Go Decision
 draft: false
 tags:
-  - project-management
+  
   - risk-management
   - decision-making
   - governance

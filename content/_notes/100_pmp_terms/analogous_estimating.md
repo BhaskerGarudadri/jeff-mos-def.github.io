@@ -2,8 +2,8 @@
 title: Analogous Estimating
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - estimating
   - cost-management
   - scheduling

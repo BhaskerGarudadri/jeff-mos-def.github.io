@@ -2,8 +2,8 @@
 title: Affinity Diagram
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - problem-solving
   - analysis
 ---

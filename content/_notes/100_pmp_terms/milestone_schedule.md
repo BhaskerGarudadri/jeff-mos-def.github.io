@@ -2,7 +2,7 @@
 title: Milestone Schedule  
 draft: false  
 tags:  
-  - project-management  
+    
   - scheduling  
   - planning  
   - timeline  

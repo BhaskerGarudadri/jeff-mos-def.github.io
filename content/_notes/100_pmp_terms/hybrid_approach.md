@@ -2,7 +2,7 @@
 title: Hybrid Approach
 draft: false
 tags:
-  - project-management
+  
   - hybrid-methodology
   - adaptive-planning
   - predictive-planning

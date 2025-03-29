@@ -2,8 +2,8 @@
 title: Cross-Functional Team
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - team-management
   - agile
   - collaboration

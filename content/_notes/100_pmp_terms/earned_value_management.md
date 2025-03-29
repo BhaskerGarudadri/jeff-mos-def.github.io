@@ -2,8 +2,8 @@
 title: Earned Value Management (EVM)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - earned-value-management
   - cost-management
   - performance-measurement

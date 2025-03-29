@@ -2,7 +2,7 @@
 title: Iterative Approach
 draft: false
 tags:
-  - project-management
+  
   - iterative-development
   - agile
   - continuous-improvement

@@ -2,8 +2,8 @@
 title: Benchmarking
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - performance-management
   - process-improvement
 ---

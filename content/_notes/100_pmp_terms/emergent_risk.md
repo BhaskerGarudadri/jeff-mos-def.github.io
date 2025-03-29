@@ -2,8 +2,8 @@
 title: Emergent Risk
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - uncertainty
   - adaptive-planning

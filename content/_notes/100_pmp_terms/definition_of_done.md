@@ -2,8 +2,8 @@
 title: Definition of Done (DoD)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - quality-management
   - software-development

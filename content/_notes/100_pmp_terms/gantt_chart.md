@@ -2,8 +2,8 @@
 title: Gantt Chart
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - time-management
   - visualization

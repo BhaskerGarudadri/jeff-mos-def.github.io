@@ -2,7 +2,7 @@
 title: Multicriteria Decision Analysis  
 draft: false  
 tags:  
-  - project-management  
+    
   - decision-making  
   - prioritization  
   - evaluation-techniques  

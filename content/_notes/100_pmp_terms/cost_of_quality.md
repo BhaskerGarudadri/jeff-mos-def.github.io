@@ -2,8 +2,8 @@
 title: Cost of Quality (COQ)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - quality-management
   - cost-management
   - process-improvement

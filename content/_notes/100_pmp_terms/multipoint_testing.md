@@ -2,7 +2,7 @@
 title: Multipoint Estimating  
 draft: false  
 tags:  
-  - project-management  
+    
   - estimating  
   - uncertainty  
   - risk-analysis  

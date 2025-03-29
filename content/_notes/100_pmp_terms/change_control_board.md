@@ -2,8 +2,8 @@
 title: Change Control Board (CCB)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - change-management
   - governance
 ---

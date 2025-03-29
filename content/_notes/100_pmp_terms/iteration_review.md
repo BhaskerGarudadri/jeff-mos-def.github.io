@@ -2,7 +2,7 @@
 title: Iteration Review
 draft: false
 tags:
-  - project-management
+  
   - agile
   - iterative-development
   - feedback-loop

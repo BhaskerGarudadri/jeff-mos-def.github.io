@@ -2,7 +2,7 @@
 title: Impact
 draft: false
 tags:
-  - project-management
+  
   - risk-management
   - decision-making
   - impact-analysis

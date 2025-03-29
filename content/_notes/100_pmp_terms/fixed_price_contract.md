@@ -2,8 +2,8 @@
 title: Fixed-Price Contract
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - procurement-management
   - contract-types
   - cost-control

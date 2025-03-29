@@ -2,7 +2,7 @@
 title: Information Radiator
 draft: false
 tags:
-  - project-management
+  
   - agile
   - team-collaboration
   - transparency

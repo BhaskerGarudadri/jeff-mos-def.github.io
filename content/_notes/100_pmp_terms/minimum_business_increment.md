@@ -2,7 +2,7 @@
 title: Minimum Business Increment (MBI)  
 draft: false  
 tags:  
-  - project-management  
+    
   - agile  
   - value-delivery  
   - product-development  

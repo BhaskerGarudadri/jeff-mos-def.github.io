@@ -2,8 +2,8 @@
 title: Acceptance Criteria
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - requirements
 ---
 

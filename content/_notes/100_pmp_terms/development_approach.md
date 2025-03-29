@@ -2,8 +2,8 @@
 title: Development Approach
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - project-lifecycle
   - methodology
   - adaptive-vs-predictive

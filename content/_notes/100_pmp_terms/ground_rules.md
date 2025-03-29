@@ -2,7 +2,7 @@
 title: Ground Rules
 draft: false
 tags:
-  - project-management
+  
   - team-management
   - communication
   - leadership

@@ -2,7 +2,7 @@
 title: Methodology  
 draft: false  
 tags:  
-  - project-management  
+    
   - execution  
   - governance  
   - discipline  

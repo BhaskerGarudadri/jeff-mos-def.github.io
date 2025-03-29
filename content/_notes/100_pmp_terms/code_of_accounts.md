@@ -2,8 +2,8 @@
 title: Code of Accounts
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - work-breakdown-structure
   - cost-management
 ---

@@ -2,8 +2,8 @@
 title: Change Control Plan
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - change-management
   - governance
 ---

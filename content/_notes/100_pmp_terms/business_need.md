@@ -2,8 +2,8 @@
 title: Business Need
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - strategic-planning
   - business-analysis
 ---

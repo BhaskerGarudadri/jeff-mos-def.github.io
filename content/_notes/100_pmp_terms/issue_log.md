@@ -2,7 +2,7 @@
 title: Issue Log
 draft: false
 tags:
-  - project-management
+  
   - issue-tracking
   - risk-management
   - documentation

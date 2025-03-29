@@ -2,8 +2,8 @@
 title: Component
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - portfolio-management
   - strategic-planning
 ---

@@ -2,7 +2,7 @@
 title: Lessons Learned Register
 draft: false
 tags:
-  - project-management
+  
   - continuous-improvement
   - documentation
   - retrospective

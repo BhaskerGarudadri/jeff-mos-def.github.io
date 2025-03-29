@@ -2,7 +2,7 @@
 title: Network Path  
 draft: false  
 tags:  
-  - project-management  
+    
   - scheduling  
   - dependency-management  
   - network-diagram  

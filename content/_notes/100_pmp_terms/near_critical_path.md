@@ -2,7 +2,7 @@
 title: Near-Critical Path  
 draft: false  
 tags:  
-  - project-management  
+    
   - scheduling  
   - float  
   - critical-path  

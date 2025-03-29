@@ -2,8 +2,8 @@
 title: Corrective Action
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - quality-management
   - change-management

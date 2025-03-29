@@ -2,8 +2,8 @@
 title: Design Thinking
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - innovation
   - problem-solving
   - user-centered-design

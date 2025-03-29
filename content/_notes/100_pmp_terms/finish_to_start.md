@@ -2,8 +2,8 @@
 title: Finish-to-Start (FS)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - schedule-management
   - dependencies
   - logical-relationships

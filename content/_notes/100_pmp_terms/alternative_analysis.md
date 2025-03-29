@@ -2,8 +2,8 @@
 title: Alternative Analysis
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - decision-making
   - risk-management
 ---

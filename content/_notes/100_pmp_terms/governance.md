@@ -2,7 +2,7 @@
 title: Governance
 draft: false
 tags:
-  - project-management
+  
   - governance
   - organizational-structure
   - leadership

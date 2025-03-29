@@ -2,7 +2,7 @@
 title: Lag
 draft: false
 tags:
-  - project-management
+  
   - scheduling
   - dependency-management
   - critical-path

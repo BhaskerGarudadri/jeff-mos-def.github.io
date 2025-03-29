@@ -2,7 +2,7 @@
 title: Integration
 draft: false
 tags:
-  - project-management
+  
   - integration-management
   - coordination
   - project-governance

@@ -2,7 +2,7 @@
 title: Iteration Plan
 draft: false
 tags:
-  - project-management
+  
   - agile
   - iterative-development
   - sprint-planning

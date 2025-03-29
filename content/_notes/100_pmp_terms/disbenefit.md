@@ -2,8 +2,8 @@
 title: Disbenefit
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - benefits-management
   - stakeholder-management

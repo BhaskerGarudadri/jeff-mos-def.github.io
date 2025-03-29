@@ -2,7 +2,7 @@
 title: Modeling  
 draft: false  
 tags:  
-  - project-management  
+    
   - visualization  
   - analysis  
   - design  

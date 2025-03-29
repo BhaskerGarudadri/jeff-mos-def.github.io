@@ -2,8 +2,8 @@
 title: Enterprise Risk Management (ERM)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - risk-management
   - organizational-strategy
   - governance

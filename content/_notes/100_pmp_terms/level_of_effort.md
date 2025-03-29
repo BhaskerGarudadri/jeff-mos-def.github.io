@@ -2,7 +2,7 @@
 title: Level of Effort
 draft: false
 tags:
-  - project-management
+  
   - scheduling
   - resource-management
   - effort-tracking

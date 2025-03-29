@@ -2,8 +2,8 @@
 title: Definition of Ready (DoR)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - backlog-refinement
   - requirements-management

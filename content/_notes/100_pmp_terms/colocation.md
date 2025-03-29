@@ -2,8 +2,8 @@
 title: Colocation
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - team-management
   - collaboration
 ---

@@ -2,7 +2,7 @@
 title: Issue
 draft: false
 tags:
-  - project-management
+  
   - risk-management
   - issue-tracking
   - problem-solving

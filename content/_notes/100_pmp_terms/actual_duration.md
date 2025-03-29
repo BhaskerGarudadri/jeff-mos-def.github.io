@@ -2,8 +2,8 @@
 title: Actual Duration
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - scheduling
 ---
 

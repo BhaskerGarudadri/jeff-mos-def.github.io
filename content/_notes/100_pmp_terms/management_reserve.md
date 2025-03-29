@@ -2,7 +2,7 @@
 title: Management Reserve  
 draft: false  
 tags:  
-  - project-management  
+    
   - cost-management  
   - risk-management  
   - budgeting  

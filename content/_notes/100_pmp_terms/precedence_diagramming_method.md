@@ -2,8 +2,8 @@
 title: Precedence Diagramming Method (PDM)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - scheduling
   - dependency-management
   - critical-path-method

@@ -2,8 +2,8 @@
 title: Cost-Benefit Analysis (CBA)
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - cost-management
   - financial-analysis
   - decision-making

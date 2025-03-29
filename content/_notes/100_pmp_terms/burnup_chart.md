@@ -2,8 +2,8 @@
 title: Burnup Chart
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - progress-tracking
 ---

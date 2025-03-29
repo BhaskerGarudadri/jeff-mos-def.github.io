@@ -2,7 +2,7 @@
 title: Kickoff Meeting
 draft: false
 tags:
-  - project-management
+  
   - stakeholder-engagement
   - team-alignment
   - project-planning

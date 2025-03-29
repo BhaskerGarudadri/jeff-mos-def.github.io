@@ -2,8 +2,8 @@
 title: Cycle Time
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - agile
   - lean
   - process-improvement

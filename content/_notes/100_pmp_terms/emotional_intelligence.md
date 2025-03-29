@@ -2,8 +2,8 @@
 title: Emotional Intelligence
 draft: false
 tags:
-  - project-management
-  - pmp
+  
+  
   - leadership
   - team-management
   - communication

@@ -2,7 +2,7 @@
 title: Late Finish Date
 draft: false
 tags:
-  - project-management
+  
   - scheduling
   - critical-path
   - project-timeline
