@@ -1,6 +1,7 @@
 ---
 title: Cost-Plus-Award-Fee (CPAF) Contract
 draft: false
+date: 2025-03-21
 tags:
   
   

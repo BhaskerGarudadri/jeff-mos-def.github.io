@@ -1,6 +1,7 @@
 ---
 title: Kanban Board
 draft: false
+date: 2025-03-21
 tags:
   
   - agile

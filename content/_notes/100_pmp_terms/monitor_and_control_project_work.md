@@ -1,6 +1,7 @@
 ---
 title: Monitor and Control Project Work  
-draft: false  
+draft: false
+date: 2025-03-21  
 tags:  
   - monitoring-and-controlling-process-group  
   - integration-management  

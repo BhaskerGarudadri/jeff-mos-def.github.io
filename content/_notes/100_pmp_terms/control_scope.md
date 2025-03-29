@@ -1,6 +1,7 @@
 ---
 title: Control Scope  
-draft: false  
+draft: false
+date: 2025-03-21  
 tags:  
   - monitoring-and-controlling-process-group  
   - scope-management  

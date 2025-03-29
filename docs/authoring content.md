@@ -18,6 +18,7 @@ Additionally, Quartz also allows you to specify additional metadata in your note
 ---
 title: Example Title
 draft: false
+date: 2025-03-21
 tags:
   - example-tag
 ---

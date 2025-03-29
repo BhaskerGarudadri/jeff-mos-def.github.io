@@ -1,6 +1,7 @@
 ---
 title: PMP Process Groups and Knowledge Areas
 draft: false
+date: 2025-03-21
 tags:
   
   

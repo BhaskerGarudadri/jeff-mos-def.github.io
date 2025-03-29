@@ -1,6 +1,7 @@
 ---
 title: PMP Exam Tactics – What to Do and What to Avoid
 draft: false
+date: 2025-03-21
 tags:
   
   

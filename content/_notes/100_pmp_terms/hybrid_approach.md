@@ -1,6 +1,7 @@
 ---
 title: Hybrid Approach
 draft: false
+date: 2025-03-21
 tags:
   
   - hybrid-methodology

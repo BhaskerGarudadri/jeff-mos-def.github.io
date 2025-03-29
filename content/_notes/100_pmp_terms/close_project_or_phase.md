@@ -1,6 +1,7 @@
 ---
 title: Close Project or Phase  
-draft: false  
+draft: false 
+date: 2025-03-21 
 tags:  
   - closing-process-group  
   - integration-management  

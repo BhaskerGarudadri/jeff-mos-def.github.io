@@ -1,6 +1,7 @@
 ---
 title: Cross-Functional Team
 draft: false
+date: 2025-03-21
 tags:
   
   

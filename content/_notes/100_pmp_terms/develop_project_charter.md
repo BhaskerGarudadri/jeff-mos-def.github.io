@@ -1,6 +1,7 @@
 ---
 title: Develop Project Charter  
-draft: false  
+draft: false
+date: 2025-03-21  
 tags:  
   - initiating-process-group  
   - integration-management  

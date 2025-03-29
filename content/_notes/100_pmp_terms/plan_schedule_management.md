@@ -1,6 +1,7 @@
 ---
 title: Plan Schedule Management  
-draft: false  
+draft: false
+date: 2025-03-21  
 tags:  
   - planning-process-group  
   - schedule-management  

@@ -1,6 +1,7 @@
 ---
 title: Definition of Ready (DoR)
 draft: false
+date: 2025-03-21
 tags:
   
   

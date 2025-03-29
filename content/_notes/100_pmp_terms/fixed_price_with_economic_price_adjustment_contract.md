@@ -1,6 +1,7 @@
 ---
 title: Fixed-Price with Economic Price Adjustment (FPEPA) Contract
 draft: false
+date: 2025-03-21
 tags:
   
   

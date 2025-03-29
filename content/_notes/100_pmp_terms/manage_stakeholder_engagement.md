@@ -1,6 +1,7 @@
 ---
 title: Manage Stakeholder Engagement  
-draft: false  
+draft: false
+date: 2025-03-21  
 tags:  
   - executing-process-group  
   - stakeholder-management  

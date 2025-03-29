@@ -1,6 +1,7 @@
 ---
 title: Critical Chain Method (CCM)
 draft: false
+date: 2025-03-21
 tags:
   
   

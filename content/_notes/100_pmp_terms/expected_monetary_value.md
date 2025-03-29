@@ -1,6 +1,7 @@
 ---
 title: Expected Monetary Value (EMV)
 draft: false
+date: 2025-03-21
 tags:
   
   
