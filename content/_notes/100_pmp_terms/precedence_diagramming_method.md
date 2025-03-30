@@ -3,8 +3,6 @@ title: Precedence Diagramming Method (PDM)
 draft: false
 date: 2025-03-21
 tags:
-  
-  
   - scheduling
   - dependency-management
   - critical-path-method
@@ -35,10 +33,11 @@ A simplified PDM example for **feature release**:
 
 ### **Mermaid Diagram: Precedence Diagramming Method Example**
 ```mermaid
-graph LR;
-    A["Define Requirements"] -->|FS| B["Develop Features"]
-    B -->|FS| C["Perform Testing"]
-    C -->|FS| D["Deploy to Production"]
+flowchart LR
+    A[Activity A: Design] -->|FS| B[Activity B: Build]
+    A -->|SS| C[Activity C: Prototype]
+    B -->|FF| D[Activity D: Integration Test]
+    C -->|SF| E[Activity E: Monitor Setup]
 ```
 
 ## Why PDM Matters
