@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "PMP Notes",
+    pageTitle: "PMP Notes+",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
