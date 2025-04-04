@@ -77,3 +77,5 @@ This knowledge area provides clarity around **what the project is delivering** a
 - **Risk Management** – Identifies scope-related risks early in the lifecycle.
 
 Project Scope Management is about **building the right thing, the right way, and only what’s required**—nothing more, nothing less.
+
+See also: [[Project Scope]], [[Scope Management Plan]], [[Assumption Log]], [[Constraints]], [[Work Breakdown Structure (WBS)]].
