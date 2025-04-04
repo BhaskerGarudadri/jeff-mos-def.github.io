@@ -9,8 +9,6 @@ tags:
   - strategic-alignment
 ---
 
-# Portfolio Charter
-
 A **Portfolio Charter** is a **formal document issued by a sponsor** that **authorizes the existence of a portfolio**, defines its **structure**, and **links it to the organization’s strategic objectives**. It serves as the foundation for portfolio governance, providing clarity on scope, authority, and alignment.
 
 The charter enables decision-making, resource allocation, and oversight by establishing accountability and intent at the portfolio level.

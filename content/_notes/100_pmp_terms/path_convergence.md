@@ -9,8 +9,6 @@ tags:
   - network-diagram
 ---
 
-# Path Convergence
-
 **Path Convergence** is a **relationship in which a schedule activity has more than one predecessor**. This means multiple paths in the project schedule lead into a single activity, and **all predecessor activities must be completed** before the converging activity can begin.
 
 Converging paths often represent **integration points**, **milestones**, or **handoffs**, where work streams must align precisely. These are critical for timing and coordination and often introduce increased risk due to dependency complexity.

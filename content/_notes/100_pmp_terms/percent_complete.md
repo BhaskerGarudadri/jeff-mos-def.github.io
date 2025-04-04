@@ -9,8 +9,6 @@ tags:
   - work-tracking
 ---
 
-# Percent Complete
-
 **Percent Complete** is an **estimate expressed as a percentage** that reflects the amount of work completed on a specific **activity** or **work breakdown structure (WBS) component**. It is a commonly used metric for tracking project progress and determining how much of the planned work has been accomplished at a given point in time.
 
 This metric supports earned value management, forecasting, and performance evaluation throughout the project lifecycle.

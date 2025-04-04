@@ -9,8 +9,6 @@ tags:
   - decision-making
 ---
 
-# Portfolio Balancing
-
 **Portfolio Balancing** is the process of **optimizing the mix of portfolio components**—including projects, programs, and operations—to best support and advance the **strategic objectives** of the organization. It involves making deliberate decisions about what to start, continue, modify, defer, or terminate based on factors such as value, risk, resource availability, and alignment.
 
 Balancing ensures the portfolio delivers **maximum value** while staying within organizational constraints.

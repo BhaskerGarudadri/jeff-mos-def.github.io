@@ -9,8 +9,6 @@ tags:
   - historical-data
 ---
 
-# Parametric Estimating
-
 **Parametric Estimating** is an **estimating technique** that uses **algorithms or mathematical models** to calculate cost or duration based on **historical data** and **project parameters**. This approach relies on established relationships between variables, such as cost per unit or duration per task, to produce consistent and scalable estimates.
 
 It is particularly effective when historical data is reliable and project elements are repetitive or measurable.

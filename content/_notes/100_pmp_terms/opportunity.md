@@ -9,8 +9,6 @@ tags:
   - strategy
 ---
 
-# Opportunity
-
 An **Opportunity** is a type of risk that, if it occurs, would have a **positive effect** on one or more portfolio, program, or project objectives. Unlike threats, which carry potential harm, opportunities represent **favorable uncertainties** that can lead to improved outcomes, strategic gains, or added value.
 
 Opportunities are managed through intentional risk response strategies that aim to realize or enhance the potential benefit.

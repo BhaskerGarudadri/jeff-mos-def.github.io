@@ -9,8 +9,6 @@ tags:
   - project-ownership
 ---
 
-# Performing Organization
-
 The **Performing Organization** is the **enterprise whose personnel are directly responsible for executing the work** of a program or project. It provides the **resources, infrastructure, and operational support** necessary to complete project tasks and deliver results.
 
 This organization owns the execution phase and plays a central role in day-to-day project activities.

@@ -9,8 +9,6 @@ tags:
   - alignment
 ---
 
-# Objectives and Key Results (OKRs)
-
 **Objectives and Key Results (OKRs)** are a goal-setting framework used to define and track objectives and their measurable outcomes. An OKR consists of a **clear objective**—what you want to achieve—and a set of **key results**—specific, time-bound, and measurable indicators of success.
 
 OKRs are commonly used in business environments to ensure alignment across individuals, teams, and the organization as a whole. They promote focus, transparency, and accountability by establishing what matters most and tracking progress toward those goals.

@@ -9,8 +9,6 @@ tags:
   - project-alignment
 ---
 
-# Objective
-
 An **Objective** is something toward which work is to be directed. It may be a **strategic position to be attained, a purpose to be achieved, a result to be obtained, a product to be produced, or a service to be performed**.
 
 Objectives provide clear direction and measurable intent across projects, programs, and portfolios. They form the foundation for defining scope, prioritizing efforts, and evaluating success.

@@ -9,8 +9,6 @@ tags:
   - threat
 ---
 
-# Risk
-
 A **Risk** is an **uncertain event or condition** that, if it occurs, will have a **positive or negative effect on one or more portfolio, program, or project objectives**. Risks are inherent to all initiatives and may impact scope, schedule, cost, quality, or stakeholder satisfaction.
 
 Risks are proactively identified, assessed, and managed through structured processes to maximize opportunities and minimize threats.

@@ -9,8 +9,6 @@ tags:
   - waterfall
 ---
 
-# Predictive Approach
-
 A **Predictive Approach** is a **development approach** in which the **project scope, time, and cost are determined early** in the project life cycle. Often referred to as **waterfall**, this method relies on a structured sequence of phases with defined deliverables and low tolerance for change once planning is complete.
 
 It is best suited for projects with **well-understood requirements**, **stable environments**, and **clearly defined outcomes**.

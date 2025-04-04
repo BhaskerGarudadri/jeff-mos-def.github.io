@@ -9,8 +9,6 @@ tags:
   - process-control
 ---
 
-# Plan-Do-Check-Act (PDCA)
-
 **Plan-Do-Check-Act (PDCA)** is an **iterative management method** used to support the **control and continual improvement of processes and products**. It provides a structured cycle for testing ideas, implementing changes, validating outcomes, and refining practices.
 
 PDCA is widely applied in quality management, operations, and Agile environments to foster adaptive learning and consistent performance improvement.

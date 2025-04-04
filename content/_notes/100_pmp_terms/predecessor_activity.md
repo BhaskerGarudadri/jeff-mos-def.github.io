@@ -9,8 +9,6 @@ tags:
   - network-diagram
 ---
 
-# Predecessor Activity
-
 A **Predecessor Activity** is an activity that **logically comes before a dependent (successor) activity** in a project schedule. The timing and sequence of the successor are determined by the relationship with its predecessor.
 
 Predecessor activities define how and when dependent work can begin or end, and are critical to building a schedule model using the Precedence Diagramming Method (PDM).

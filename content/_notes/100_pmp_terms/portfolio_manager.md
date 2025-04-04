@@ -9,8 +9,6 @@ tags:
   - strategic-execution
 ---
 
-# Portfolio Manager
-
 A **Portfolio Manager** is the **person or group assigned by the performing organization** to **establish, balance, monitor, and control portfolio components** to ensure alignment with and achievement of **strategic business objectives**. This role operates at the enterprise level and is responsible for **maximizing portfolio value**, managing risks, and ensuring resource optimization across all portfolio elements.
 
 ## Key Characteristics

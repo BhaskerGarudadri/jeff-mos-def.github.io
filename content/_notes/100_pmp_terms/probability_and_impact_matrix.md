@@ -9,8 +9,6 @@ tags:
   - uncertainty
 ---
 
-# Probability and Impact Matrix
-
 A **Probability and Impact Matrix** is a **grid-based tool** used to evaluate and prioritize project risks by **mapping the likelihood** of each risk’s occurrence against the **severity of its potential impact** on project objectives. This matrix supports qualitative risk analysis and helps guide risk response strategies.
 
 The goal is to distinguish between low, moderate, and high-priority risks, so resources can be focused effectively.

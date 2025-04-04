@@ -9,8 +9,6 @@ tags:
   - decision-point
 ---
 
-# Phase Gate
-
 A **Phase Gate** is a **formal review conducted at the end of a project phase** to decide whether to **proceed to the next phase**, **modify the current plan**, or **terminate the program or project**. It acts as a **control point** that ensures alignment with business objectives, stakeholder expectations, and project feasibility before moving forward.
 
 Phase gates are integral to stage-based project governance models and provide an opportunity for structured evaluation, validation, and authorization.

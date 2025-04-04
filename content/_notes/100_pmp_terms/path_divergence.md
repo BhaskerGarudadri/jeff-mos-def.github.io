@@ -9,8 +9,6 @@ tags:
   - critical-path
 ---
 
-# Path Divergence
-
 **Path Divergence** is a **relationship in which a schedule activity has more than one successor**. It occurs when the completion of a single task triggers the start of multiple downstream activities. Each successor is dependent on the diverging activity being completed before it can begin.
 
 This relationship is often seen during **planning handoffs**, **resource distribution**, or **parallel execution paths**, and it requires careful coordination to ensure successors receive timely input.

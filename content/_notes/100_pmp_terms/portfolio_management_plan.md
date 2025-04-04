@@ -9,8 +9,6 @@ tags:
   - oversight
 ---
 
-# Portfolio Management Plan
-
 A **Portfolio Management Plan** is a **document that specifies how a portfolio will be organized, monitored, and controlled**. It outlines the processes, tools, governance structure, performance metrics, and resource management strategies that will guide the execution and oversight of portfolio components.
 
 The plan ensures that portfolio operations align with strategic objectives and provides a framework for consistent decision-making and performance tracking.

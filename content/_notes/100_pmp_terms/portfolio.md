@@ -9,8 +9,6 @@ tags:
   - governance
 ---
 
-# Portfolio
-
 A **Portfolio** is a collection of **projects, programs, subsidiary portfolios, and operations** managed **as a group** to achieve **strategic objectives**. The components of a portfolio are not necessarily interdependent but are aligned to support enterprise goals, optimize resources, and balance risk and value.
 
 Portfolios provide a high-level structure for aligning initiatives with business strategy and ensuring coordinated oversight.

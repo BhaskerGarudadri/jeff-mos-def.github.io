@@ -9,8 +9,6 @@ tags:
   - earned-value
 ---
 
-# Performance Measurement Baseline
-
 The **Performance Measurement Baseline (PMB)** is the **integrated scope, schedule, and cost baselines** that serve as the foundation for **measuring, managing, and controlling project execution**. It provides a reference point against which actual performance is compared to assess progress and identify variances.
 
 The PMB is a key component of **earned value management (EVM)** and supports accurate forecasting and decision-making throughout the project lifecycle.

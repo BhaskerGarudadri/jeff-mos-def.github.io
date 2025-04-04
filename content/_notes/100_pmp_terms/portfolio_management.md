@@ -9,8 +9,6 @@ tags:
   - value-delivery
 ---
 
-# Portfolio Management
-
 **Portfolio Management** is the **centralized management of one or more portfolios** to achieve **strategic objectives**. It involves selecting, prioritizing, balancing, and overseeing portfolio components—projects, programs, subsidiary portfolios, and operations—to ensure optimal value delivery and alignment with organizational goals.
 
 It provides governance and transparency for investment decisions, resource allocation, and performance monitoring at the enterprise level.

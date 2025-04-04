@@ -9,8 +9,6 @@ tags:
   - planning-tools
 ---
 
-# PESTLE Analysis
-
 **PESTLE Analysis** is a **strategic planning tool** used to systematically evaluate the external environment through six key lenses: **Political, Economic, Sociocultural, Technological, Legal, and Environmental**. It helps project teams understand the macro-environmental factors that can influence success, revealing both **opportunities and threats** beyond the organization’s control.
 
 This tool is especially useful during **initiation and planning phases** to assess risk exposure and alignment with strategic context.

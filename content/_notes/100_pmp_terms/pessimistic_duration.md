@@ -9,8 +9,6 @@ tags:
   - time-analysis
 ---
 
-# Pessimistic Duration
-
 **Pessimistic Duration** is an estimate of the **longest possible time** required to complete an activity, taking into account **all known variables that could negatively affect performance**. It represents the **worst-case scenario** and is a critical component of three-point estimating methods such as PERT.
 
 This estimate helps teams plan for delays and build appropriate buffers into schedules.

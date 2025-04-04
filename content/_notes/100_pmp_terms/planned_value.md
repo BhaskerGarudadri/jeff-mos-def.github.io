@@ -9,8 +9,6 @@ tags:
   - schedule-control
 ---
 
-# Planned Value (PV)
-
 **Planned Value (PV)** is the **authorized budget assigned to scheduled work** at a specific point in time. It represents how much of the budget should have been spent, according to the project schedule, regardless of actual progress or performance.
 
 PV is a foundational element of **earned value management (EVM)** and is used to evaluate cost and schedule performance.
