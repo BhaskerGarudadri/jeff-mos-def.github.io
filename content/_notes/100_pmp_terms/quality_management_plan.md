@@ -1,7 +1,7 @@
 ---
 title: Quality Management Plan
 draft: false
-date: 2025-04-04
+date: 2025-04-05
 tags:
   - quality-management
   - planning

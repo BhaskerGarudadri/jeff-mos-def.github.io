@@ -1,7 +1,7 @@
 ---
 title: Qualitative Risk Analysis
 draft: false
-date: 2025-04-04
+date: 2025-04-05
 tags:
   - risk-management
   - analysis
