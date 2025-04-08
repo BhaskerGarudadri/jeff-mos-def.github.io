@@ -1,7 +1,7 @@
 ---
 title: Responsibility
 draft: false
-date: 2025-04-05
+date: 2025-04-07
 tags:
   - governance
   - resource-management

@@ -1,7 +1,7 @@
 ---
 title: Residual Risk
 draft: false
-date: 2025-04-05
+date: 2025-04-07
 tags:
   - risk-management
   - planning
