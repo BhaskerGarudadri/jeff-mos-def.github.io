@@ -28,7 +28,7 @@ It visually compares planned value (PV), earned value (EV), and actual cost (AC)
 
 ## S-Curve analysis shown in Python
 
-![S-Curve Analysis](docs/images/s-curve.png)
+![S-Curve Analysis](/s-curve.png)
 
 <details>
 <summary>Click to expand S-Curve Analysis code</summary>
