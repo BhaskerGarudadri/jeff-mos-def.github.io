@@ -3,13 +3,11 @@ title: Acceptance Test-Driven Development (ATDD)
 draft: false
 date: 2025-03-28
 tags:
-  
-  
   - software-development
   - testing
 ---
 
-**Acceptance Test-Driven Development (ATDD)** is a collaborative software development approach where acceptance test criteria are defined before development begins. It ensures alignment between stakeholders, developers, and testers by focusing on the expected behavior of the system.
+**Acceptance Test-Driven Development (ATDD)** is a collaborative software development approach where acceptance test criteria are defined before development begins. It ensures alignment between [[stakeholder.md | stakeholders]], developers, and testers by focusing on the expected behavior of the system.
 
 ## Key Aspects of ATDD
 - **Collaboration-Driven** – Involves developers, testers, and business stakeholders to define test cases before implementation.

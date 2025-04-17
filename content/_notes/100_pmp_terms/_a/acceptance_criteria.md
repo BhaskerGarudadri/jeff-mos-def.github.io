@@ -3,12 +3,10 @@ title: Acceptance Criteria
 draft: false
 date: 2025-03-28
 tags:
-  
-  
   - requirements
 ---
 
-**Acceptance criteria** define the conditions that must be met for a deliverable to be accepted. These criteria ensure that project outputs align with stakeholder expectations and predefined requirements. They provide a clear benchmark for project completion and quality assurance.
+**Acceptance criteria** define the conditions that must be met for a deliverable to be accepted. These criteria ensure that project outputs align with stakeholder expectations and predefined requirements. They provide a clear [[ benchmarking.md |benchmark]] for project completion and quality assurance.
 
 ## Key Aspects of Acceptance Criteria
 - **Objective and Measurable** – Each criterion should be specific enough to be tested or verified.
@@ -35,4 +33,4 @@ tags:
 - **Enhances Communication** – Provides clarity between project teams and stakeholders.
 - **Supports Testing & Validation** – Serves as a reference for quality assurance and user acceptance testing (UAT).
 
-See also: [[Deliverable]], [[Requirement]].
+See also: [[deliverable.md | Deliverable]], [[requirement.md | Requirement]].
