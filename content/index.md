@@ -42,3 +42,15 @@ Removed redundant tags I had set up in my template (project-management, pmp) to 
 Added a <a href="https://github.com/jeff-mos-def/jeff-mos-def.github.io/issues/new?labels=bug&template=content_bug.md">Bug or Correction Report</a> link to allow for reporting of content that is in need of correction or further development.
 
 This section will eventually be moved to an update page and a proper landing page will be created. At this point, this is just knowledge capture.
+
+---
+
+18Apr25 Update:
+
+I've finished the first round of terms into the <a href="https://jeff-mos-def.github.io/_notes/100_pmp_terms/">terms group</a> and put them in alphabetized sections, *finally*.
+
+I'll be working on linkages from term to term next.
+
+Added one more video: <a href="https://jeff-mos-def.github.io/_resources/100_video/_McLachlan/_questions/predictive_11-20">Predictive | 11–20</a>
+
+I'll probably move this section into a more changelog-*esqe* style section on the front page.
